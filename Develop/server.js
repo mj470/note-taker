@@ -13,9 +13,10 @@ app.use(htmlRouter);
 app.use(apiRouter);
 app.use('/', notesRouter);
 
-app.listen(PORT, () => {
-    console.log(`application successfully listening to http://localhost:${PORT}`);
-})
+const server = app.listen(PORT, () => {
+    console.log(`Application successfully listening to http://localhost:${PORT}`);
+});
+
 server.on('error', (error) => {
     console.error('Error starting the server:', error);
 });
