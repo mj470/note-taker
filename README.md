@@ -16,7 +16,7 @@ The task of this assignment was to take given front end code and create the serv
 Video demonstration: https://drive.google.com/file/d/1e-PmbZBb0pJlgahynKAbi9UDmIQ_E3Wz/view
 
 # Installation
-Clone GitHub repository
+Clone GitHub repository https://github.com/mj470/note-taker
 in an integrated terminal install the following libraries and packages:
 install Express.js using 'npm install express'
 install fs using 'npm install fs'
