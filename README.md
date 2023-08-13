@@ -13,6 +13,8 @@ The task of this assignment was to take given front end code and create the serv
 5. The plus sign will add a new note. 
 6. Click the trash can to delete a saved note. 
 
+Video demonstration: https://drive.google.com/file/d/1e-PmbZBb0pJlgahynKAbi9UDmIQ_E3Wz/view
+
 # Installation
 Clone GitHub repository
 in an integrated terminal install the following libraries and packages:
